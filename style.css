@@ -1,0 +1,59 @@
+#AOT
+{
+    text-decoration: underline;
+}
+#HAJIME
+{
+    text-decoration: underline;
+}
+#TATAKAE
+{
+    text-decoration: underline;
+}
+#aot
+{
+    text-decoration: underline;
+}
+body
+{
+    background-color: rgb(255, 247, 224);
+}
+a
+{
+    font-size: 25px;
+}
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #efe9e2, #e8ded4, #e0d3c5);
+}
+
+.header
+{
+	color: white;font-family: 'Consert One' ;font-size: 45px;letter-spacing: 7px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
